@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @CseperkePapp
-- 👀 I’m interested in UI design, communication, infomration architecture and information first theories and philosphy
-- 🌱 I’m currently learning Rive and theoretical physics
-- 💞️ I’m working ona system to involve ai responsibly and authentically
+- 👀 I’m interested in UI design, design systems, communication, information architecture and information first theories and philosphy
 - 📫 How to reach me: https://www.linkedin.com/in/cseperkepapp/
 - 😄 Pronouns: she
 - ⚡ Fun fact: so many - I have severe adhd, please dont be mad if I don't respond, but trying to use github for organizing
