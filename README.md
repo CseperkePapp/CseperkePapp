@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CseperkePapp
-- 👀 I’m interested in UI design, design systems, communication, information architecture and information first theories and philosphy
+- 👀 Digital Equilibrist focusing on UI design, design systems, communication, information architecture and motion design.
 - 📫 How to reach me: https://www.linkedin.com/in/cseperkepapp/
 - female, Hungarian, typically diverse
 <!---
